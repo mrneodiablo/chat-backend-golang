@@ -1,0 +1,133 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "VANlSGxOIkPuvF3dz1oRyt+bDBc=",
+			"path": "github.com/Unknwon/goconfig",
+			"revision": "56bd8ab186196b5203e3b8e17057a04a65153003",
+			"revisionTime": "2018-11-05T21:41:10Z"
+		},
+		{
+			"checksumSHA1": "LgZecWOcp+Fd6s2er2kwpdRApcI=",
+			"path": "github.com/astaxie/beego",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "m+xzAT4nURcPGkMePX2zklJK/lI=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "tDeHBdiXEzOuHzb/3Zp2ilRZjNU=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "iHY0XMPlj5EfCxMN4NEmvBgdhDM=",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "N5kHk4qbc10N2Lp9ltA2G76qNxs=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "OksAzF6VvpfTlte99lpVNV+iSnY=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "EDaMYv6yHO6Xu9J8loeGIUOvGoE=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "EOoY9qbCsWnu5FlZZnMKUKkLcMk=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "W7HBzu7HlF18vCfNPgax7xvHXB0=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "C23LbWdLxzTaK30oTi3ZvYM2hdo=",
+			"path": "github.com/beego/i18n",
+			"revision": "e9308947f407a24aaa1e7dbe35a01931e99cb255",
+			"revisionTime": "2016-11-01T13:27:42Z"
+		},
+		{
+			"checksumSHA1": "lnXCQ0W+TUrintwU69ljmXf5o+k=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "483fb8d7c32fcb4b5636cd293a92e3935932e2f4",
+			"revisionTime": "2018-10-30T14:45:53Z"
+		},
+		{
+			"checksumSHA1": "Nj2UlgmEuJc96RnF+UDbfyyvPNs=",
+			"path": "github.com/streadway/amqp",
+			"revision": "27835f1a64e97101d95306211f03c0620ffa295d",
+			"revisionTime": "2018-11-07T10:47:31Z"
+		},
+		{
+			"checksumSHA1": "ETfjuu5F8ejF27iatik4uPga2VQ=",
+			"path": "golang.org/x/crypto/acme",
+			"revision": "3d3f9f413869b949e48070b5bc593aa22cc2b8f2",
+			"revisionTime": "2018-11-10T06:03:37Z"
+		},
+		{
+			"checksumSHA1": "Yjacru/DE9yXphaefh67NrjNgAk=",
+			"path": "golang.org/x/crypto/acme/autocert",
+			"revision": "3d3f9f413869b949e48070b5bc593aa22cc2b8f2",
+			"revisionTime": "2018-11-10T06:03:37Z"
+		},
+		{
+			"checksumSHA1": "bS5Kp6YjeXz4nvvS55CqIBP+HzM=",
+			"path": "gopkg.in/mgo.v2",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "/xRHTpN8WOK4nmZjJ1f96ER1b/o=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "XQsrqoNT1U0KzLxOFcAZVvqhLfk=",
+			"path": "gopkg.in/mgo.v2/internal/json",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "LEvMCnprte47qdAxWvQ/zRxVF1U=",
+			"path": "gopkg.in/mgo.v2/internal/sasl",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "+1WDRPaOphSCmRMxVPIPBV4aubc=",
+			"path": "gopkg.in/mgo.v2/internal/scram",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"revisionTime": "2018-03-28T19:50:20Z"
+		}
+	],
+	"rootPath": "hope-pet-chat-backend"
+}
